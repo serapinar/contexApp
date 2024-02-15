@@ -4,7 +4,7 @@ export default function App(){
   return (
     <View>
       <Text>
-        hello
+        hello guys
       </Text>
     </View>
   )
